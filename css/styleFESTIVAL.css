@@ -1,0 +1,340 @@
+.informaci-n-del-festival,
+.informaci-n-del-festival * {
+  box-sizing: border-box;
+}
+.informaci-n-del-festival {
+  background: #ffffff;
+  height: 1962px;
+  position: relative;
+  overflow: hidden;
+}
+.medusa-1 {
+  width: 1342px;
+  height: 1789px;
+  position: absolute;
+  left: 151px;
+  top: 173px;
+  object-fit: cover;
+  aspect-ratio: 1342/1789;
+}
+.enlaces-a-imagenes {
+  position: absolute;
+  inset: 0;
+}
+.fondo {
+  background: rgba(84, 210, 127, 0.2);
+  width: 1472px;
+  height: 752px;
+  position: absolute;
+  left: -18px;
+  top: 1140px;
+}
+.imagen {
+  width: 679px;
+  height: 737px;
+  position: static;
+}
+.imagen2 {
+  background: #a3cec1;
+  width: 598px;
+  height: 423px;
+  position: absolute;
+  left: 761px;
+  top: 1430px;
+}
+.tortuga-adi-s-1 {
+  width: 553px;
+  height: 737px;
+  position: absolute;
+  left: 680px;
+  top: 1240px;
+  object-fit: cover;
+  aspect-ratio: 553/737;
+}
+.texto-informativo {
+  display: flex;
+  flex-direction: column;
+  gap: 37px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1262px;
+  height: 136px;
+  position: absolute;
+  left: 43px;
+  top: 1219px;
+}
+.t-tulo {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-BlackItalic", sans-serif;
+  font-size: 34px;
+  font-weight: 900;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+}
+.contenido {
+  color: #000000;
+  text-align: left;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+  height: 351px;
+}
+.enlaces {
+  display: flex;
+  flex-direction: column;
+  gap: 80px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 586px;
+  position: absolute;
+  left: 43px;
+  top: 1434px;
+}
+.itinerario {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.texto {
+  background: #f49a13;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 564px;
+  height: 60px;
+  position: relative;
+}
+.lorelipsum-ac {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+}
+.mapa-para-llegar {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.mapa-del-lugar {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.informaci-n {
+  position: absolute;
+  inset: 0;
+}
+.fondo2 {
+  background: rgba(84, 210, 127, 0.2);
+  width: 1512.14px;
+  height: 752px;
+  position: absolute;
+  left: -38px;
+  top: 257px;
+}
+.texto2 {
+  background: rgba(84, 210, 127, 0.3);
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1473.1px;
+  position: absolute;
+  left: -1.02px;
+  top: 324px;
+}
+.horario {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 464px;
+  position: relative;
+}
+.t-tulo2 {
+  background: #000000;
+  padding: 10px 10px 0px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 321px;
+  height: 82px;
+  position: relative;
+}
+.t-tulo3 {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 40px;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  width: 316px;
+  height: 68px;
+}
+.contenido2 {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 24px;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  align-self: stretch;
+}
+.entradas {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 464px;
+  height: 530px;
+  position: relative;
+}
+.lugar {
+  display: flex;
+  flex-direction: column;
+  gap: 42px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 464px;
+  position: relative;
+}
+.barra-divisi-n {
+  background: #ff9000;
+  width: 1449px;
+  height: 15px;
+  position: absolute;
+  left: -15px;
+  top: 1067px;
+}
+.botones {
+  width: 1440px;
+  height: 187px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.barra {
+  background: #5dbca5;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.bot-n-inicio {
+  background: #ffffff;
+  border-radius: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 17.51%;
+  height: 41.71%;
+  position: absolute;
+  right: 51.05%;
+  left: 31.43%;
+  bottom: 28.88%;
+  top: 29.41%;
+}
+.inicio {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+}
+.bot-n-contacto {
+  background: #f49a13;
+  border-radius: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 22.64%;
+  height: 41.71%;
+  position: absolute;
+  right: 26.58%;
+  left: 50.77%;
+  bottom: 28.88%;
+  top: 29.41%;
+}
+.festival {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+}
+.bot-n-festival {
+  background: #ffffff;
+  border-radius: 25px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 22.64%;
+  height: 41.71%;
+  position: absolute;
+  right: 2.11%;
+  left: 75.25%;
+  bottom: 28.88%;
+  top: 29.41%;
+}
+.contacto {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-BoldItalic", sans-serif;
+  font-size: 48px;
+  font-weight: 700;
+  font-style: italic;
+  position: relative;
+}

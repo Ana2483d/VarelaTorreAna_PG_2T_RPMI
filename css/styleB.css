@@ -1,0 +1,166 @@
+.bienvenida,
+.bienvenida * {
+  box-sizing: border-box;
+}
+.bienvenida {
+  background: #ffffff;
+  height: 1962px;
+  position: relative;
+  overflow: hidden;
+}
+.fondo {
+  background: rgba(84, 210, 127, 0.2);
+  width: 1472px;
+  height: 1479px;
+  position: absolute;
+  left: 0px;
+  top: 241px;
+}
+.medusa-2 {
+  width: 1342px;
+  height: 1789px;
+  position: absolute;
+  left: 65px;
+  top: 200px;
+  aspect-ratio: 1342/1789;
+}
+.medusa-1 {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+  object-fit: cover;
+}
+.barras {
+  position: absolute;
+  inset: 0;
+}
+.barra-abajo {
+  width: 1440px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 1762px;
+}
+.barra-abajo2 {
+  background: #5dbca5;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.rectangle-1 {
+  background: #ff9000;
+  width: 1.04%;
+  height: 100%;
+  position: absolute;
+  right: 42.71%;
+  left: 56.25%;
+  bottom: 0%;
+  top: 0%;
+}
+.barra-abajo3 {
+  width: 1440px;
+  height: 200px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.tortuga-gif-2 {
+  width: 613px;
+  height: 205px;
+  position: absolute;
+  left: 825px;
+  top: 1762px;
+  object-fit: cover;
+  aspect-ratio: 613/205;
+}
+.bienvenida2 {
+  position: absolute;
+  inset: 0;
+}
+.bot-n {
+  background: #f49a13;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  width: 490px;
+  height: 60px;
+  position: absolute;
+  left: 478px;
+  top: 1498px;
+  box-shadow: 0px 4px 4px 0px rgba(170, 39, 39, 0.25);
+}
+.clicka-para-saber-m-s {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  transition: 0.2s ease-in-out;
+}
+
+.clicka-para-saber-m-s:hover{
+  color: #000000;
+}
+
+.texto-informativo {
+  padding: 0px 20px 0px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  width: 1431px;
+  height: 502px;
+  position: absolute;
+  left: 20px;
+  top: 936px;
+}
+.texto {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 54px;
+  position: static;
+}
+.t-tulo {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-ExtraBoldItalic", sans-serif;
+  font-size: 48px;
+  font-weight: 800;
+  font-style: italic;
+  position: absolute;
+  right: 20px;
+  bottom: 220px;
+  width: 1391px;
+  height: 54px;
+}
+.contenido {
+  color: #000000;
+  text-align: center;
+  font-family: "Inter-SemiBoldItalic", sans-serif;
+  font-size: 25px;
+  font-weight: 600;
+  font-style: italic;
+  position: relative;
+  width: 1365px;
+}
+.rectangle-3 {
+  width: 778px;
+  height: 394px;
+  position: absolute;
+  left: 347px;
+  top: 655px;
+  object-fit: cover;
+}
